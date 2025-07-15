@@ -1,0 +1,183 @@
+{
+    "intents": [
+        {
+            "tag": "python",
+            "patterns": [
+                "What is Python?",
+                "Explain Python.",
+                "Tell me about Python programming.",
+                "Use of Python?",
+                "Python meaning?"
+            ],
+            "responses": [
+                "Python is a powerful programming language known for its readability and versatility in web development, data science, and automation."
+            ],
+            "context": [
+                ""
+            ]
+        }, [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "Good morning",
+                "Good evening",
+                "What's up?",
+                "How are you?",
+                "Is anyone there?",
+                "Hola",
+                "Hey there"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi there! Ask me anything."
+            ]
+        },
+        {
+            "tag": "ram",
+            "patterns": [
+                "What is RAM used for?",
+                "Purpose of RAM?",
+                "Function of RAM?",
+                "Define RAM.",
+                "How does RAM work?"
+            ],
+            "responses": [
+                "RAM is a type of computer memory that temporarily stores data for running applications and helps in multitasking efficiently."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "cpu",
+            "patterns": [
+                "What is a CPU?",
+                "CPU stands for?",
+                "Explain CPU.",
+                "Role of CPU in computer?",
+                "What does CPU do?"
+            ],
+            "responses": [
+                "The CPU, or Central Processing Unit, is the brain of the computer that performs calculations and runs programs."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "healthy_living",
+            "patterns": [
+                "How can I stay healthy?",
+                "Tips for good health?",
+                "How to live a healthy life?",
+                "Healthy lifestyle tips?",
+                "What are healthy habits?"
+            ],
+            "responses": [
+                "Maintaining a balanced diet, exercising regularly, getting enough sleep, and staying hydrated are key to a healthy lifestyle."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "exam_tips",
+            "patterns": [
+                "How do I prepare for exams?",
+                "Exam preparation tips?",
+                "How to study for tests?",
+                "Best way to prepare for exams?",
+                "Advice for exam day?"
+            ],
+            "responses": [
+                "Start studying early, review key concepts regularly, take breaks, and get good sleep before the exam to perform well."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "pakistan_founder",
+            "patterns": [
+                "Who is the founder of Pakistan?",
+                "Tell me about the founder of Pakistan.",
+                "Name of Pakistan's founder?",
+                "Who made Pakistan?",
+                "Pakistan founder name?"
+            ],
+            "responses": [
+                "The founder of Pakistan is Muhammad Ali Jinnah, also known as Quaid-e-Azam, who led the country to independence in 1947."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ramadan",
+            "patterns": [
+                "What is Ramadan?",
+                "Tell me about Ramadan.",
+                "Meaning of Ramadan?",
+                "Why do Muslims fast in Ramadan?",
+                "Explain the purpose of Ramadan."
+            ],
+            "responses": [
+                "Ramadan is the ninth month of the Islamic calendar, during which Muslims fast from dawn to sunset as a spiritual practice."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "zakat",
+            "patterns": [
+                "What is Zakat in Islam?",
+                "Meaning of Zakat?",
+                "Why is Zakat important?",
+                "Explain Zakat in Islam.",
+                "Zakat explanation?"
+            ],
+            "responses": [
+                "Zakat is a mandatory form of charity in Islam, where a portion of one's wealth is given to those in need to purify income."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "html_css",
+            "patterns": [
+                "Difference between HTML and CSS?",
+                "What is HTML and CSS?",
+                "HTML vs CSS?",
+                "Purpose of HTML and CSS?",
+                "Explain HTML and CSS."
+            ],
+            "responses": [
+                "HTML is used to structure web pages, while CSS styles them to look appealing and control layout, colors, and fonts."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "capital_of_pakistan",
+            "patterns": [
+                "What is the capital of Pakistan?",
+                "Capital city of Pakistan?",
+                "Pakistan's capital?",
+                "Name the capital of Pakistan?",
+                "Main city of Pakistan?"
+            ],
+            "responses": [
+                "Islamabad is the capital of Pakistan, known for its modern architecture, greenery, and administrative significance."
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}
